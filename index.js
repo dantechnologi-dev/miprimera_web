@@ -1,1 +1,1 @@
-console.log("Hola! esto es una prueba de git")
+console.log("Hola! estamos en la rama inicio")
